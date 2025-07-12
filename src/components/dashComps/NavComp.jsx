@@ -134,7 +134,7 @@ const NavComp = () => {
                       <ul className="sub-menu">
                         <li>
                           <a href="/dashboard/interstate-bank-transfer">
-                            Interstate Transfer
+                            Local Transfer
                           </a>
                         </li>
                         <li>
@@ -143,7 +143,7 @@ const NavComp = () => {
                           </a>
                         </li>
                         <li>
-                         
+                      
                           </a>
                         </li>
                       </ul>
