@@ -143,8 +143,7 @@ const NavComp = () => {
                           </a>
                         </li>
                         <li>
-                          <a href="/dashboard/local-bank-transfer">
-                            Local Transfer
+                         
                           </a>
                         </li>
                       </ul>
