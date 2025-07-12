@@ -1,3 +1,4 @@
+import Image from "next/image";
 import React from "react";
 
 const Footer = () => {
@@ -20,7 +21,12 @@ const Footer = () => {
               <div className="footer-widget logo-widget">
                 <figure className="footer-logo">
                   <a href="/">
-                    <img src="/assets/images/logo-2.png" alt />
+                    <Image
+                      src="/img/logo/QULO_CREDIT-removebg-preview.png"
+                      width={150}
+                      height={50}
+                      alt="Picture of the author"
+                    />
                   </a>
                 </figure>
                 <p>

@@ -1,3 +1,4 @@
+import Image from "next/image";
 import React from "react";
 
 const Navbar = () => {
@@ -41,8 +42,13 @@ const Navbar = () => {
             <div className="logo-box">
               <div className="shape" />
               <figure className="logo">
-                <a href="index.html">
-                  <img src="/assets/images/logo.png" alt />
+                <a href="/">
+                  <Image
+                    src="/img/logo/QULO_CREDIT-removebg-preview.png"
+                    width={150}
+                    height={50}
+                    alt="Picture of the author"
+                  />
                 </a>
               </figure>
             </div>
@@ -94,8 +100,13 @@ const Navbar = () => {
             <div className="logo-box">
               <div className="shape" />
               <figure className="logo">
-                <a href="/">
-                  <img src="/assets/images/logo.png" alt />
+                <a href="/" className="">
+                  <Image
+                    src="/img/logo/QULO_CREDIT-removebg-preview.png"
+                    width={150}
+                    height={50}
+                    alt="Picture of the author"
+                  />
                 </a>
               </figure>
             </div>

@@ -42,11 +42,11 @@ const DashIndex = () => {
                 : "sub-menu absolute z-40 bg-[#fff] hidden rounded-2xl w-[250px] p-[2rem] "
             }
           >
-            <li>
+            {/* <li>
               <a href="/dashboard/interstate-bank-transfer">
                 <i class="ti-new-window"></i> Interstate transfer
               </a>
-            </li>
+            </li> */}
             <li>
               <a href="/dashboard/international-bank-transfer">
                 <i class="ti-new-window"></i> International Transfer

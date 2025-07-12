@@ -41,7 +41,7 @@ const LoginContents = () => {
       const formData = {
         accountNo: accountNumber,
         password: password,
-        transactionPin: transactionPin,
+        // transactionPin: transactionPin,
       };
       // Submission logic here
       setRegistering(true);
@@ -117,7 +117,7 @@ const LoginContents = () => {
                             data-error="Please enter your message subject"
                           />
                         </div>
-                        <div className="col-md-12 col-sm-12 col-xs-12">
+                        {/* <div className="col-md-12 col-sm-12 col-xs-12">
                           <input
                             type="password"
                             placeholder="Enter Your Pin"
@@ -127,7 +127,7 @@ const LoginContents = () => {
                             required
                             data-error="Please enter your message subject"
                           />
-                        </div>
+                        </div> */}
 
                         <div className="col-md-12 col-sm-12 col-xs-12 text-center">
                           <button

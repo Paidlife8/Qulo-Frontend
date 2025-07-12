@@ -22,7 +22,7 @@ const TransferToInternationalBank = () => {
     setCurrentStep("transfer-details");
   };
   const verifyDetails = () => {
-    setCurrentStep("verify-otp");
+    setCurrentStep("verify-cot");
   };
 
   const otpCallback = () => {

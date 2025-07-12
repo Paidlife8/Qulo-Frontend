@@ -122,10 +122,9 @@ const VerifyCot = ({ cotCallback, amount, accontName }) => {
                       />
                     </div>
                   </div>
-                  <div className=" px-[30px] flex gap-[1rem] my-[6rem]">
-                    <a href="#" className="s-menu">Go back</a>
+                  <div className=" px-[30px] flex flex-wrap gap-[1rem] my-[6rem]">
                     <a href="#" className="s-menu" onClick={handleSendCot}>
-                      {sending ? "sending..." : "Request Cot"}
+                      {sending ? "sending..." : "Resend"}
                     </a>
                     <a
                       href="#"
@@ -134,8 +133,11 @@ const VerifyCot = ({ cotCallback, amount, accontName }) => {
                       // data-bs-target="#congratulationsMod"
                       onClick={handleVerifyCot}
                     >
-                      {verifying ? "verying..." : "Verify COT"}
+                      {verifying ? "verying..." : "Verify"}
                     </a>
+                    {/* <a href="#" className="s-menu">
+                      back
+                    </a> */}
                   </div>
                 </div>
               </div>

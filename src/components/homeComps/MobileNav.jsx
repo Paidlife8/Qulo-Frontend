@@ -1,3 +1,4 @@
+import Image from "next/image";
 import React from "react";
 
 const MobileNav = () => {
@@ -10,7 +11,12 @@ const MobileNav = () => {
       <nav className="menu-box">
         <div className="nav-logo">
           <a href="/">
-            <img src="assets/images/logo.png" alt title />
+            <Image
+              src="/img/logo/QULO_CREDIT-removebg-preview.png"
+              width={150}
+              height={50}
+              alt="Picture of the author"
+            />
           </a>
         </div>
         <div className="menu-outer">

@@ -75,7 +75,7 @@ const TransferLocalBankForm = ({ handleClick }) => {
     if (!transferData.bankName) newErrors.bankName = "Bank name is required";
     if (!transferData.routingNumber)
       newErrors.routingNumber = "Routing number is required";
-    if (!transferData.country) newErrors.country = "Country is required";
+    // if (!transferData.country) newErrors.country = "Country is required";
     // if (!transferData.swiftCode) newErrors.swiftCode = "switf code is required";
     if (!accountNumber) newErrors.accountNumber = "Account number is required";
     if (!amount) newErrors.amount = "Amount is required";
@@ -213,7 +213,7 @@ const TransferLocalBankForm = ({ handleClick }) => {
                             <p className="text-danger">{errors.amount}</p>
                           )}
                         </div>
-                        <div className="col-md-6 mb-[3rem] col-sm-6 col-xs-12">
+                        {/* <div className="col-md-6 mb-[3rem] col-sm-6 col-xs-12">
                           <label htmlFor="m-send">Country</label>
                           <input
                             onChange={handleChange}
@@ -227,7 +227,7 @@ const TransferLocalBankForm = ({ handleClick }) => {
                           {errors.country && (
                             <p className="text-danger">{errors.country}</p>
                           )}
-                        </div>
+                        </div> */}
                         <div className="col-md-6 mb-[3rem] col-sm-6 col-xs-12">
                           <label htmlFor="m-send">Your Available Balance</label>
                           <input
