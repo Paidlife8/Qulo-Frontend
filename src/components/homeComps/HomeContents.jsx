@@ -69,7 +69,7 @@ const HomeContents = () => {
               <div className="auto-container">
                 <div className="content-box">
                   <h2>
-                    Open our <span>Current</span> Account Online
+                    Conveys security<span>reliability,and</span> worldwide reach.
                   </h2>
                   <p>
                     This statistic is based on our average personal current
@@ -107,7 +107,7 @@ const HomeContents = () => {
               <div className="auto-container">
                 <div className="content-box">
                   <h2>
-                    Open our <span>Current</span> Account Online
+                    Suggests growth, <span>Vision and</span> expansion beyond borders
                   </h2>
                   <p>
                     This statistic is based on our average personal current
