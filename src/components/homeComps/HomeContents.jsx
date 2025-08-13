@@ -31,7 +31,7 @@ const HomeContents = () => {
               <div className="auto-container">
                 <div className="content-box">
                   <h2>
-                    Open our <span>Current</span> Account Online
+                    Banking  <span>Without</span> Borders
                   </h2>
                   <p>
                     This statistic is based on our average personal current

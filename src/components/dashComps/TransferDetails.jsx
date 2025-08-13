@@ -1,6 +1,7 @@
 "use client";
 import { profileSelector } from "@/redux/features/profile/profile-slice";
 import {
+  sendCot,
   sendOtp,
   transactionSelector,
 } from "@/redux/features/transaction/transaction-slice";
@@ -17,7 +18,7 @@ const TransferDetails = ({ verifyDetails, handlePrev }) => {
   const dispatch = useDispatch();
 
   const { profile, gettingProfile } = useSelector(profileSelector);
-  const { sendingOtp, sentOtpSuccess, sendOtpError } =
+  const { sendingCot, sentCotSuccess, sendOtpError } =
     useSelector(transactionSelector);
   console.log(profile, "profile");
 
@@ -26,7 +27,7 @@ const TransferDetails = ({ verifyDetails, handlePrev }) => {
       if (otp == profile?.transactionPin) {
         // toast("otp correct");
         const data = { accountNo: profile?.accountNo };
-        dispatch(sendOtp(data));
+        dispatch(sendCot(data));
       } else {
         toast("wrong pin");
       }
@@ -36,10 +37,10 @@ const TransferDetails = ({ verifyDetails, handlePrev }) => {
   };
 
   useEffect(() => {
-    if (sentOtpSuccess) {
+    if (sentCotSuccess) {
       verifyDetails();
     }
-  }, [sentOtpSuccess]);
+  }, [sentCotSuccess]);
   return (
     <section className="dashboard-section dashboard-content body-collapse pay step step-2 step-3">
       <div className="overlay pt-50">
@@ -101,7 +102,9 @@ const TransferDetails = ({ verifyDetails, handlePrev }) => {
                       <span>Purpose:</span>
                       <b>{detailsData?.remark}</b>
                     </li>
-                    {/* <li>
+
+I, [7/12/2025 3:22 PM]
+{/* <li>
                       <span>Transfer will be receive on </span>
                       <b>29 June at 10:0 PM </b>
                     </li> */}
@@ -128,7 +131,7 @@ const TransferDetails = ({ verifyDetails, handlePrev }) => {
                   //   data-bs-toggle="modal"
                   //   data-bs-target="#transferMod"
                 >
-                  {sendingOtp ? "..." : "Proceed payment"}
+                  {sendingCot ? "..." : "Proceed payment"}
                 </a>
               </div>
             </>
