@@ -25,11 +25,11 @@ const Navbar = () => {
             <ul className="info-list clearfix">
               <li>
                 <i className="icon-1" />
-                <a href="mailto:info@example.com">info@example.com</a>
+                <a href="mailto:info@qulocredit.com">info@qulocredit.com</a>
               </li>
               <li>
                 <i className="icon-2" />
-                Find Nearest Branch
+                808 Washington Avenue Alamogordo, NM 88310
               </li>
             </ul>
           </div>

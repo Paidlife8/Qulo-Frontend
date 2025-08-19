@@ -39,7 +39,7 @@ const MobileNav = () => {
               <a href="tel:+8801682648101">+88 01682648101</a>
             </li>
             <li>
-              <a href="mailto:info@example.com">info@example.com</a>
+              <a href="mailto:info@qulocredit.com">info@qulocredit.com</a>
             </li>
           </ul>
         </div>
