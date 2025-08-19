@@ -24,8 +24,8 @@ const ContactContents = () => {
                   </div>
                   <h3>Our Location</h3>
                   <p>
-                    1901 Thornridge Cir. Shiloh, <br />
-                    Hawaii 81063
+                    808 Washington Avenue Alamogordo,  <br />
+                    NM 88310
                   </p>
                 </div>
               </div>
@@ -42,9 +42,9 @@ const ContactContents = () => {
                   </div>
                   <h3>Email Address</h3>
                   <p>
-                    <a href="mailto:contact@example.com">contact@example.com</a>
+                    <a href="mailto:contact@qulocredit.com">contact@qulocredit.com</a>
                     <br />{" "}
-                    <a href="mailto:support@example.com">support@example.com</a>
+                    <a href="mailto:support@qulocredit.com">support@qulocredit.com</a>
                   </p>
                 </div>
               </div>
@@ -61,8 +61,8 @@ const ContactContents = () => {
                   </div>
                   <h3>Phone Number</h3>
                   <p>
-                    Emergency Cases <br />
-                    <a href="tel:2085550112">+(208) 555-0112</a> (24/7)
+                    Emergency Case <br />
+                    <a href="tel:9175471462">+(917) 547-1462 </a> (24/7)
                   </p>
                 </div>
               </div>
