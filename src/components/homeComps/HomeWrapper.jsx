@@ -15,7 +15,7 @@ const HomeWrapper = ({ children }) => {
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
         />
 
-        <title>MetroBank - HTML 5 Template Preview</title>
+        <title>Qulo - Your Trusted Banking Partner</title>
 
         {/* <!-- Fav Icon --> */}
         <link
