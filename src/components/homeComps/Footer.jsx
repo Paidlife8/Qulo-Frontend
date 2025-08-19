@@ -139,7 +139,7 @@ const Footer = () => {
         <div className="auto-container">
           <div className="copyright">
             <p>
-              Copyright 2023 by <a href="/">MertoBank</a>. All Right Reserved.
+              Copyright 2023 by <a href="/">QuloCreditUnion</a>. All Right Reserved.
             </p>
           </div>
         </div>
