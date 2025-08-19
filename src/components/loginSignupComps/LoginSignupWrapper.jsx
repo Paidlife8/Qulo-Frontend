@@ -7,7 +7,7 @@ const LoginSignupWrapper = ({ children }) => {
       <head>
         <meta charset="utf-8" />
         <meta http-equiv="x-ua-compatible" content="ie=edge" />
-        <title>Signup - Bultifore</title>
+        <title>Login - QuloCreditunion</title>
         <meta name="deScription" content="" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
