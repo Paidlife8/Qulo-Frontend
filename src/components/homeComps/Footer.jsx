@@ -30,9 +30,7 @@ const Footer = () => {
                   </a>
                 </figure>
                 <p>
-                  Tincidunt neque pretium lectus donec risus. Mauris mi tempor
-                  nunc orc leo consequat vitae erat gravida lobortis nec et
-                  sagittis.
+                  Qulo Credit Union proudly serves Washington with a full suite of modern financial solutions. From free checking accounts, competitive credit cards, and flexible auto loans to home mortgages, home equity financing, and digital banking services, we are committed to helping our members achieve financial confidence and stability.
                 </p>
                 <ul className="social-links">
                   <li>
