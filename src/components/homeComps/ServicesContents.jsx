@@ -313,7 +313,7 @@ const ServicesContents = () => {
               <div className="form-inner ml_40">
                 <form
                   method="post"
-                  action="https://azim.hostlin.com/Metrobank/contact.html"
+                  action="https://azim.hostlin.com/azzzMetrobank/contact.html"
                 >
                   <div className="form-group">
                     <input

@@ -68,10 +68,9 @@ const AboutContents = () => {
                       <div className="icon-box">
                         <i className="icon-10" />
                       </div>
-                      <h3>Solution Focused</h3>
+                      <h3>24/7 Digital Banking</h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Donec felis tincidunt feugiat
+                        Access your money anytime, anywhere.
                       </p>
                     </div>
                     <div className="single-item">
@@ -80,8 +79,7 @@ const AboutContents = () => {
                       </div>
                       <h3>99.99% Success</h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Donec felis tincidunt feugiat
+                        Personal & Business Solutions – Tailored services for your goals.
                       </p>
                     </div>
                   </div>

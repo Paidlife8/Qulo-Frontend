@@ -257,18 +257,16 @@ const HomeContents = () => {
                         </div>
                         <h3>Solution Focused</h3>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit. Donec felis tincidunt feugiat
+                          Personal & Business Solutions – Tailored services for your goals
                         </p>
                       </div>
                       <div className="single-item">
                         <div className="icon-box">
                           <i className="icon-11" />
                         </div>
-                        <h3>99.99% Success</h3>
+                        <h3>Trusted Security</h3>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit. Donec felis tincidunt feugiat
+                          Advanced encryption tp protect your finances.
                         </p>
                       </div>
                     </div>
