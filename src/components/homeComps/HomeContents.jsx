@@ -257,7 +257,7 @@ const HomeContents = () => {
                         </div>
                         <h3>Solution Focused</h3>
                         <p>
-                          Personal & Business Solutions – Tailored services for your goals
+                          Personal & Business Solutions, Tailored services for your goals
                         </p>
                       </div>
                       <div className="single-item">
