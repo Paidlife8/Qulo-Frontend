@@ -404,7 +404,7 @@ const HomeContents = () => {
                       <a href="/service">All Bank Account</a>
                     </h4>
                     <ul className="list-item clearfix">
-                      <li>nstant Access Savings</li>
+                      <li>Instant Access Savings</li>
                       <li>Instant Access Cash</li>
                       <li>Young Savers Account</li>
                     </ul>
