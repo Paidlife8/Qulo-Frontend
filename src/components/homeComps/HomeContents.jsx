@@ -243,14 +243,11 @@ const HomeContents = () => {
                   <div className="content-box ml_40">
                     <div className="sec-title mb_20">
                       <h6>About US</h6>
-                      <h2>Financial Guidance for Every Stage of Life.</h2>
+                      <h2>Connecting Europe and Asia with Smarter Banking.</h2>
                     </div>
                     <div className="text-box mb_40">
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Donec felis, suscipit you take action against fraud. See
-                        it the Security Center for and Mobile and Online
-                        Banking.
+                        At Qulo Credit Union, we believe banking should be as borderless as your ambitions. Serving individuals and businesses across Europe and Asia, we provide seamless financial solutions designed for a connected world.
                       </p>
                     </div>
                     <div className="inner-box mb_45">
