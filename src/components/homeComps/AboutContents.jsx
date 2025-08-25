@@ -306,9 +306,7 @@ const AboutContents = () => {
                   </div>
                   <div className="text-box mb_50">
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Donec felis, suscipit you take action against fraud. See
-                      it the Security Center for and Mobile and Online Banking.
+                      Experience fast, secure, and convenient banking with our mobile app — available now on the Google Play Store and Apple App Store.
                     </p>
                   </div>
                   <div className="btn-box">
