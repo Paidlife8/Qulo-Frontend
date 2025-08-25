@@ -192,11 +192,10 @@ const AboutContents = () => {
                     <i className="icon-5" />
                   </div>
                   <h4>
-                    <a href="/">Secure International Transaction</a>
+                    <a href="/">Innovation at Scale</a>
                   </h4>
                   <p>
-                    Tortor neque sed tellus estian eget dui id ante tristique
-                    more tristique dolor.
+                    Cutting-edge technology that simplifies money management, anytime and anywhere.
                   </p>
                 </div>
               </div>
@@ -212,11 +211,10 @@ const AboutContents = () => {
                     <i className="icon-6" />
                   </div>
                   <h4>
-                    <a href="/contact">24/7 Support from the Expert Team</a>
+                    <a href="/contact">24/7 Personalized Support from the Expert Team</a>
                   </h4>
                   <p>
-                    Tortor neque sed tellus estian eget dui id ante tristique
-                    more tristique dolor.
+                    Dedicated teams offering guidance tailored to your financial goals.
                   </p>
                 </div>
               </div>
@@ -232,11 +230,10 @@ const AboutContents = () => {
                     <i className="icon-7" />
                   </div>
                   <h4>
-                    <a href="#">Lowest Processing Fee than Other Banks</a>
+                    <a href="#">Community-Driven Values</a>
                   </h4>
                   <p>
-                    Tortor neque sed tellus estian eget dui id ante tristique
-                    more tristique dolor.
+                     A commitment to integrity, trust, and financial growth for every member.
                   </p>
                 </div>
               </div>
@@ -252,11 +249,10 @@ const AboutContents = () => {
                     <i className="icon-8" />
                   </div>
                   <h4>
-                    <a href="#">Less Time in any Loans Approval</a>
+                    <a href="#">Global Presence</a>
                   </h4>
                   <p>
-                    Tortor neque sed tellus estian eget dui id ante tristique
-                    more tristique dolor.
+                    Serving individuals and businesses across the United Sates, Europe and Asia with Seamless cross-border solutions.
                   </p>
                 </div>
               </div>
