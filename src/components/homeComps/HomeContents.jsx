@@ -754,8 +754,8 @@ const HomeContents = () => {
                   <figure className="thumb-box">
                     <img src="/assets/images/resource/testimonial-1.png" alt />
                   </figure>
-                  <h4>Sandra Bullock</h4>
-                  <span className="designation">Manager</span>
+                  <h4>Aisha R – Dubai, UAE</h4>
+                  <span className="designation">Student</span>
                   <ul className="rating mb_6 clearfix">
                     <li>
                       <i className="icon-26" />
@@ -774,9 +774,7 @@ const HomeContents = () => {
                     </li>
                   </ul>
                   <p>
-                    “Lorem ipsum dolor sit amet consectetur adipiscing elit
-                    pellentesque etiam nis quis at arcu nunc neque ac integer
-                    sit lobortis diam semper nulla duis in blandit.”
+                    Opening an account as an international student can be a nightmare. With Qulo, I applied online, verified my documents digitally, and had access to mobile banking before my first class. It was stress-free and let me settle in quickly
                   </p>
                 </div>
               </div>
@@ -785,8 +783,8 @@ const HomeContents = () => {
                   <figure className="thumb-box">
                     <img src="/assets/images/resource/testimonial-2.png" alt />
                   </figure>
-                  <h4>Julien Anthor</h4>
-                  <span className="designation">Manager</span>
+                  <h4>David K – London, UK</h4>
+                  <span className="designation">IT Consultant</span>
                   <ul className="rating mb_6 clearfix">
                     <li>
                       <i className="icon-26" />
@@ -805,9 +803,7 @@ const HomeContents = () => {
                     </li>
                   </ul>
                   <p>
-                    “Lorem ipsum dolor sit amet consectetur adipiscing elit
-                    pellentesque etiam nis quis at arcu nunc neque ac integer
-                    sit lobortis diam semper nulla duis in blandit.”
+                    I once had a fraudulent charge on my debit card while traveling in Singapore. Within minutes of reporting it, the transaction was blocked, my funds were secured, and a replacement card was already on its way. That level of security is why I trust Qulo with my savings.
                   </p>
                 </div>
               </div>
@@ -816,8 +812,8 @@ const HomeContents = () => {
                   <figure className="thumb-box">
                     <img src="/assets/images/resource/testimonial-3.png" alt />
                   </figure>
-                  <h4>Rolier Demonil</h4>
-                  <span className="designation">Manager</span>
+                  <h4>Maria L. – Berlin, Germany</h4>
+                  <span className="designation">Small Business Owner</span>
                   <ul className="rating mb_6 clearfix">
                     <li>
                       <i className="icon-26" />
@@ -836,9 +832,7 @@ const HomeContents = () => {
                     </li>
                   </ul>
                   <p>
-                    “Lorem ipsum dolor sit amet consectetur adipiscing elit
-                    pellentesque etiam nis quis at arcu nunc neque ac integer
-                    sit lobortis diam semper nulla duis in blandit.”
+                    When I expanded my café business into France, I worried about international payments. Qulo Credit Union made it seamless — their cross-border transfers were fast, transparent, and saved me fees compared to my old bank. I can now focus on growing, not paperwork.
                   </p>
                 </div>
               </div>
