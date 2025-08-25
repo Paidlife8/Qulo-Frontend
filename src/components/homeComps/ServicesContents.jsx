@@ -211,8 +211,7 @@ const ServicesContents = () => {
                 <h6>Testimonials</h6>
                 <h2>Love from Happy Clients</h2>
                 <p>
-                  Amet dui scelerisque habitant eget tincidunt facilisis pretium
-                  lorem ipsum dilore.{" "}
+                  Trusted by members Across Europe and Asia.{" "}
                 </p>
               </div>
             </div>
