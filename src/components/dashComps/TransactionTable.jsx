@@ -9,9 +9,9 @@ const TransactionTable = ({ transactions, profile }) => {
         <div className="dashboard-content">
           <div className="row">
             <div className="col-md-12 col-sm-12 col-xs-12">
-              <div className="send-money-form transection-log">
+              <div className="send-money-form Transaction-log">
                 <div className="form-text">
-                  <h4 className="form-top">Transection Log</h4>
+                  <h4 className="form-top">Transaction Log</h4>
                   <div className="form-inner table-inner">
                     <table>
                       <thead>

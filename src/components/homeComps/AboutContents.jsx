@@ -124,7 +124,7 @@ const AboutContents = () => {
                   </span>
                   <span>Bn</span>
                 </div>
-                <p>Total Transection</p>
+                <p>Total Transaction</p>
               </div>
             </div>
             <div className="funfact-block-one">

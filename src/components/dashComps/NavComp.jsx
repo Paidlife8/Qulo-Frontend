@@ -114,7 +114,7 @@ const NavComp = () => {
                           </li>
                           <li>
                             <a href="/dashboard/transection-log">
-                              <i class="ti-layout-list-thumb"></i> Transection
+                              <i class="ti-layout-list-thumb"></i> Transaction
                               Log
                             </a>
                           </li>
@@ -185,7 +185,7 @@ const NavComp = () => {
                     </li>
                     <li>
                       <a href="/dashboard/transection-log">
-                        <i className="ti-layout-list-thumb"></i> Transection Log
+                        <i className="ti-layout-list-thumb"></i> Transaction Log
                       </a>
                     </li>
                     <li>
